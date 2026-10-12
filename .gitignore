@@ -2,3 +2,4 @@ bin/
 data/
 logs/
 *.test
+.DS_Store
